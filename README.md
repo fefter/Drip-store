@@ -14,7 +14,7 @@ Este projeto representa a camada visual da loja virtual. A aplicação consome u
 
 ## Deploy & Acesso Rápido
 A aplicação está publicada e pronta para testes no link abaixo:
-➡️ Drip Store Digital - Vercel: https://drip-store-seven-flax.vercel.app/
+➡️ Drip Store - Vercel: https://drip-store-seven-flax.vercel.app/
 
 ---
 
